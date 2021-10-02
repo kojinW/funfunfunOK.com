@@ -31,5 +31,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # external_repository:  kojinW/funfunfunOK.com 
           publish_branch: gh-pages
-          publish_dir: ./docs
+          publish_dir: docs
 
