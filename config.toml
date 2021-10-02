@@ -61,6 +61,11 @@ canonifyurls = true
   URL = "contact"
   weight = 3
 
+  [[menu.main]]
+  name = "pppp"
+  URL = "posts"
+  weight = 3
+
   # footer menu
   [[menu.footer]]
   name = "About"
