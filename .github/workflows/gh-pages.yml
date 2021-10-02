@@ -29,6 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository:  kojinW/funfunfunOK.com 
+          # external_repository:  kojinW/funfunfunOK.com 
           publish_branch: master
 
