@@ -17,5 +17,5 @@ tags:
   - "puripuri"
 
 # post type
-type: "featured"
+type: "post"
 ---
